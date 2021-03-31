@@ -1,3 +1,3 @@
-# Projects
+# Anomaly detection project
 
-Anomaly detection project
+Under construction
