@@ -1,1 +1,3 @@
 # Projects
+
+Anomaly detection project
